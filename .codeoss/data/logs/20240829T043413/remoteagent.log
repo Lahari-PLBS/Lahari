@@ -1,0 +1,19 @@
+2024-08-29 04:34:13.706 [info] 
+
+
+
+
+2024-08-29 04:34:13.706 [info] Extension host agent started.
+2024-08-29 04:34:13.708 [info] Started initializing default profile extensions in extensions installation folder. file:///home/lahari_plbs/.codeoss/extensions
+2024-08-29 04:34:13.740 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/lahari_plbs/.codeoss/extensions
+2024-08-29 04:34:16.985 [info] [127.0.0.1][530bbf5d][ManagementConnection] New connection established.
+2024-08-29 04:34:17.078 [info] [127.0.0.1][7de0d77f][ExtensionHostConnection] New connection established.
+2024-08-29 04:34:19.485 [info] [127.0.0.1][7de0d77f][ExtensionHostConnection] <1187> Launched Extension Host Process.
+2024-08-29 05:09:42.932 [info] [127.0.0.1][7de0d77f][ExtensionHostConnection] The client has reconnected.
+2024-08-29 05:09:44.986 [info] [127.0.0.1][530bbf5d][ManagementConnection] The client has reconnected.
+2024-08-29 05:46:34.201 [info] [127.0.0.1][530bbf5d][ManagementConnection] The client has reconnected.
+2024-08-29 05:46:34.530 [info] [127.0.0.1][7de0d77f][ExtensionHostConnection] The client has reconnected.
+2024-08-29 05:51:59.603 [info] [127.0.0.1][7de0d77f][ExtensionHostConnection] The client has reconnected.
+2024-08-29 05:51:59.843 [info] [127.0.0.1][530bbf5d][ManagementConnection] The client has reconnected.
+2024-08-29 05:52:49.016 [info] [127.0.0.1][530bbf5d][ManagementConnection] The client has reconnected.
+2024-08-29 05:52:49.268 [info] [127.0.0.1][7de0d77f][ExtensionHostConnection] The client has reconnected.
